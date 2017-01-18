@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\bin\Debug\JohnPietrangelo10Grades.exe.config
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\bin\Debug\JohnPietrangelo10Grades.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\bin\Debug\JohnPietrangelo10Grades.pdb
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\obj\Debug\JohnPietrangelo10Grades.csprojResolveAssemblyReference.cache
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\obj\Debug\JohnPietrangelo10Grades.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo10Grades\JohnPietrangelo10Grades\obj\Debug\JohnPietrangelo10Grades.pdb
